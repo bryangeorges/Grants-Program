@@ -1,6 +1,6 @@
 # Mintbase Grant Proposal
 
-- **Project Name:** iiNDY x FKA Twigs x Sothebys EUSEXUA Livestream Collection
+- **Project Name:** iiNDY Project Elven
 - **Team Name:** iiNDYVERSE
 - **Payment Address:** iindyverse.near
 - [**Level](notion://www.notion.so/README.md#level_slider-levels):** 2
@@ -13,13 +13,13 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 ### Overview
 
-iiNDYVERSE is partnering with Sotheby’s and Grammy-nominated artist FKA twigs, who boasts 1.1 billion Spotify streams, to launch a limited NFT collection for viewers of a 14-day livestream for her new major album release, EUSEXUA. 
+iiNDYVERSE is partnering with a leading Grammy-nominated artist, who boasts 1.1 billion Spotify streams, to launch a limited NFT collection for viewers of a 14-day livestream for her new major album release. 
 
-As this is mainly an artist funded project, we are seeking grant funding to enable them to afford  the digital collectibles component into the campaign.  We expect to offer up to 1m NFTs to viewers at a cost of $1 per collectible. 
+As this is mainly an artist funded project, we are seeking grant funding to enable them to afford  the digital collectibles component into the campaign. Fan can choose how much to pay per NFT, and we expect to offer up to 1m NFTs to viewers at a cost of $1.11+ per collectible. 
 
 **About iiNDYVERSE**
 
-iiNDYVERSE is an interactive engagement platform that enables seamless gamified experiences and  NFT based rewards within instant messaging apps. Clients include Nike, Air Jordan, Pernod Ricard, Ray-Ban, and top artists from UMG, XL Recording, Atlantic Records.
+iiNDYVERSE is an interactive engagement platform that enables seamless gamified experiences and  NFT based rewards within instant messaging apps. Clients include Nike, Air Jordan, Pernod Ricard, Ray-Ban, and top artists from UMG, XL Recording and others.
 
 Given over 90% of viewers will be non-crypto natives, we propose to enable fans to purchase and claim NFTs using a passwordless **one tap** wallet creation and digital asset minting via instant messaging apps (e.g. WhatsApp). This authentication process relies on multiple layers of security checks, such as one-time, time bound, JW tokens sent to verified WhatApp accounts,to ensure user data protection and fraud prevention, which are crucial for building trust with non-crypto native users.
 We plan to use this grant to support integrating Mintbase stack into the iiNDYVERSE platform to supprt the web3 onboarding, minting and smart contract management. We will build this service to be production ready.
@@ -29,7 +29,7 @@ We plan to use this grant to support integrating Mintbase stack into the iiNDYVE
 - Mintbase's APIs and the NEAR SDK will be used for all Web3 elements of the project
 - Our passwordless, **one-tap** on ramp and airdrop approach has a 90% conversion rate, and will benefit Mintbase and NEAR driving the creation of up to 1 million new active wallets and digital assets in the NEAR ecosystem.
 - NEAR smart contracts are used to handle the core fan rewards logic.
-- This provides a great case study to drive awareness of NEAR and Mintbase because the project will be heavily promoted by the record label, the artist and Sotherby’s; and will be covered in many mainstream press outlets.
+- This provides a great case study to drive awareness of NEAR and Mintbase because the project will be heavily promoted by the record label, the artist and auction house; and will be covered in many mainstream press outlets.
 
 **Team's Motivation**
 
@@ -46,7 +46,7 @@ We plan to use this grant to support integrating Mintbase stack into the iiNDYVE
     - swap out our custom built Web3 Stack and replace it with Mintbase stack, upgrade our NEAR SDK implementation
     - embed NEAR wallet creation and Mintbase NFT functionality into Interactive Chat Bot flows and the iiNDY hosted Fan’s Collectibles portal pages.
     - integrate with Shopify Headless framework to enable seamless eCommerce checkout experiences for Digital assets.
-    - Release a production version to power the Sotheby’s x FKA twigs EUSEXUA Collectibles launch.
+    - Release a production version to power the Artists Collectibles launch.
 - Technology Stack:
     - Smart Contracts: Rust, NEAR SDK, Mintbase API
     - Front End: React,  Shopify Headless Frameworkm  Hydrogen (Remix / React),
@@ -65,7 +65,7 @@ We plan to use this grant to support integrating Mintbase stack into the iiNDYVE
 
 - Top tier Artists and eCommerce and digital marketers at medium to large Consumer Brands  who want to offer interactive experiences and digital rewards to amplify new product releases and customer loyalty initiatives.
 - Mainstream customers and fans who are value easy of use and fun over control and complexity.
-    - Specifically for this project, we are direct targeting the 5.4M social media fans of FKA twigs, and the 4M social media fans of Sotheby’s.
+    - Specifically for this project, we are direct targeting the 5.4M social media fans of the Artist, and the 4M social media followers of the auction house.
 
 **What need(s) does our project meet?**
 
@@ -79,7 +79,7 @@ Our passwordless, one-tap approach is based on unique,time-bound, one-time authe
 
 **Are there any other projects similar to ours in the Mintbase / NEAR ecosystem?**
 
-- This project is specific and unique opportunity with a major Brand (Sothebys) and major Artists (FKA twigs). We are the exclusive tech partner on this project.
+- This project is specific and unique opportunity with a major Brand and major Artist. We are the exclusive tech partner on this project.
 - More broadly, there are generic Web3 loyalty apps in the market, but we have not found a solution that seamless embeds on-tap web3 onramp and rewards into interactive messaging conversations.
     
     
@@ -97,7 +97,7 @@ Our passwordless, one-tap approach is based on unique,time-bound, one-time authe
 ### Contact
 
 - **Contact Name:** Bryan Georges
-- **Contact Email:** [bryan@iindy.co](mailto:bryan@iindy.co)
+- **Contact Email:** [dev@iindy.co](mailto:dev@iindy.co)
 - **Website: https://iindy.co**
 
 ### Legal Structure
@@ -219,9 +219,9 @@ As mentioned above, iiNDYVERSE has an customer build Web3 stack (testnet and mai
 
 ## Future Plans
 
-For the specific project, FKA twigs plans on offering a range of exclusive products and access to events to owners of the EUSEXUA collectibles. 
+For the specific project, the Artis plans on offering a range of exclusive products and access to events to owners of the collectibles. 
 
-We expect the label, Atlantic Records, which has a roster that includes Lizzo, Bruno Mars, Charlie XCX, Ed Sheeran and Janelle Monae, is closely looking to this project as a case study for others on their roster who don’t have a core web3 audience.  
+We expect the label, which has a roster of major artists, is closely looking to this project as a case study for others on their roster who don’t have a core web3 audience.  
 
 Also, when resources allow,  we plan to release a free to use mini/demo app and supporting github repo for other Brand marketers and creators in the NEAR/Mintbase ecosystem to engage with.  
 
